@@ -1,0 +1,9 @@
+## Total Page Views
+/page_3                        4
+/page/2                        3
+/page/1                        2
+
+## Unique Page Views
+/page_3                        3
+/page/1                        2
+/page/2                        1
